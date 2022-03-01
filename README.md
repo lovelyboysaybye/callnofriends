@@ -2,6 +2,7 @@
 LovelyBoySayByeToFuckingRussians (LBSBTFR)
 
 Програма main.exe дозволяє надіслати російські номера з заданого тектсового файлу у @DzvinokDruguBot телеграм-бот.
+Приклад номерів: [numbers_example.txt](numbers_example.txt)
 
 Програма працює на бібліотеці Selenium і потребує попереднії встановлень.
 Встановіть відповідний web-driver, браузером якого ви користуєтесь:
