@@ -10,7 +10,10 @@ LovelyBoySayByeToFuckingRussians (LBSBTFR)
 * Edge https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 * та інші. (Firefox, Opera, Safari)
 
-Для запуску:
+Для запуску (тільки Windows):
 `main.exe --path_to_numbers C:\my\path\to\numbers`
+
+Запуск Python скрипту:
+`main.py --path_to_numbers C:\my\path\to\numbers`
 
 Спершу, додаток телеграм попросить Вас залогінитись в свій аккаунт. Це можна зробити викоирстовуючи QR-код.
