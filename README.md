@@ -1,0 +1,2 @@
+# callnofriends
+LovelyBoySayByeToFuckingRussians (LBSBTFR)
