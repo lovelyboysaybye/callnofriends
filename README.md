@@ -5,8 +5,9 @@ LovelyBoySayByeToFuckingRussians (LBSBTFR)
 
 Програма працює на бібліотеці Selenium і потребує попереднії встановлень.
 Встановіть відповідний web-driver, браузером якого ви користуєтесь:
-GoogleChrome https://chromedriver.chromium.org/downloads
-Edge https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
+* GoogleChrome https://chromedriver.chromium.org/downloads
+* Edge https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 та інші. (Firefox, Opera, Safari)
 
 Для запуску:
