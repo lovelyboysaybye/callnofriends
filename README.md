@@ -8,7 +8,7 @@ LovelyBoySayByeToFuckingRussians (LBSBTFR)
 
 * GoogleChrome https://chromedriver.chromium.org/downloads
 * Edge https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
-та інші. (Firefox, Opera, Safari)
+* та інші. (Firefox, Opera, Safari)
 
 Для запуску:
 `main.exe --path_to_numbers C:\my\path\to\numbers`
